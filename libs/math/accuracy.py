@@ -17,4 +17,7 @@ class Accuracy:
         return TN / (TN + FN)
 
     @staticmethod
-    def
+    def Accuracy (TP, TN, FP, FN):
+        return (TP + TN ) / (TP + TN + FP + FN)
+
+    
