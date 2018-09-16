@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01614739-b3fc-4962-a98e-443171918b7d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/libs/Math/Accuracy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/Math/Algebra.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/math/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Math/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/math/accuracy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/math/distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Math/distance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/math/matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Math/matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/math/vector.py" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Math/vector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Math/Accuracy.py" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/accuracy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Math/Algebra.py" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/algebra.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Math/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Math/distance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Math/matrix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Math/vector.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,20 +20,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Accuracy.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libs/Math/Accuracy.py">
+      <file leaf-file-name="accuracy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libs/common/accuracy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="240">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="temp.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="temp.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/temp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            <state relative-caret-position="210">
+              <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
               <folding>
                 <element signature="e#1#32#0" expanded="true" />
               </folding>
@@ -42,18 +41,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Algebra.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libs/Math/Algebra.py">
+      <file leaf-file-name="algebra.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libs/common/algebra.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state relative-caret-position="15">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="distance.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libs/Math/distance.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="sorting.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/libs/common/sorting.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -76,6 +79,8 @@
         <option value="$PROJECT_DIR$/mathematics/Algebra.py" />
         <option value="$PROJECT_DIR$/mathematics/Accuracy.py" />
         <option value="$PROJECT_DIR$/temp.py" />
+        <option value="$PROJECT_DIR$/libs/common/accuracy.py" />
+        <option value="$PROJECT_DIR$/libs/common/sorting.py" />
       </list>
     </option>
   </component>
@@ -105,7 +110,7 @@
               <item name="python-ml" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-ml" type="462c0819:PsiDirectoryNode" />
               <item name="libs" type="462c0819:PsiDirectoryNode" />
-              <item name="Math" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,17 +183,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="959" y="0" width="961" height="1175" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24921794" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="R Packages" order="3" />
-      <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32929105" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50052136" side_tool="true" visible="true" weight="0.32929105" />
       <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24921794" />
+      <window_info anchor="right" id="R Packages" order="3" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49947864" weight="0.32929105" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -197,44 +204,56 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/libs/Math/Accuracy.py">
+    <entry file="file://$PROJECT_DIR$/libs/common/accuracy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libs/Math/distance.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libs/Math/Algebra.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libs/Math/Accuracy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/temp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="210">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           <folding>
             <element signature="e#1#32#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/common/distance.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/common/matrix.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/common/vector.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/common/algebra.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/common/accuracy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/common/sorting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
