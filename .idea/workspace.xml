@@ -3,13 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="01614739-b3fc-4962-a98e-443171918b7d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/Math/Accuracy.py" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/accuracy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/Math/Algebra.py" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/algebra.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/Math/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/Math/distance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/Math/matrix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/Math/vector.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/clustering/knn-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/clustering/knn-1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,10 +26,22 @@
       <file leaf-file-name="temp.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/temp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            <state relative-caret-position="45">
+              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
               <folding>
-                <element signature="e#1#32#0" expanded="true" />
+                <element signature="e#1#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="knn-1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/clustering/knn-1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -44,17 +50,17 @@
       <file leaf-file-name="algebra.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libs/common/algebra.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="-660">
               <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sorting.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sorting.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libs/common/sorting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="15">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -78,16 +84,17 @@
         <option value="$PROJECT_DIR$/math/Accuracy.py" />
         <option value="$PROJECT_DIR$/mathematics/Algebra.py" />
         <option value="$PROJECT_DIR$/mathematics/Accuracy.py" />
-        <option value="$PROJECT_DIR$/temp.py" />
         <option value="$PROJECT_DIR$/libs/common/accuracy.py" />
         <option value="$PROJECT_DIR$/libs/common/sorting.py" />
+        <option value="$PROJECT_DIR$/temp.py" />
+        <option value="$PROJECT_DIR$/examples/clustering/knn-1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="959" />
-    <option name="width" value="961" />
-    <option name="height" value="1175" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="967" />
+    <option name="width" value="953" />
+    <option name="height" value="879" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -100,6 +107,22 @@
             <path>
               <item name="python-ml" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-ml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-ml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-ml" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-ml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-ml" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-ml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-ml" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="clustering" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-ml" type="b2602c69:ProjectViewProjectNode" />
@@ -143,7 +166,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.knn-1">
+    <configuration name="knn-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-ml" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples/clustering" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/clustering/knn-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-ml" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,8 +203,13 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <list>
+      <item itemvalue="Python.temp" />
+      <item itemvalue="Python.knn-1" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.knn-1" />
         <item itemvalue="Python.temp" />
       </list>
     </recent_temporary>
@@ -182,16 +228,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="959" y="0" width="961" height="1175" extended-state="4" />
+    <frame x="967" y="0" width="953" height="879" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50052136" side_tool="true" visible="true" weight="0.32929105" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.50052136" side_tool="true" visible="true" weight="0.18170103" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24921794" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2513144" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49947864" weight="0.32929105" />
@@ -217,16 +263,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding>
-            <element signature="e#1#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/libs/common/distance.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -236,9 +272,12 @@
     <entry file="file://$PROJECT_DIR$/libs/common/vector.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/libs/x/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/libs/common/algebra.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="-660">
           <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
         </state>
       </provider>
@@ -250,10 +289,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <element signature="e#1#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/libs/common/sorting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        <state relative-caret-position="15">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/clustering/knn-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
